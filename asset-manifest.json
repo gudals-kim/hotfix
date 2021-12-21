@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hotfix/static/css/main.9ec8fdc1.css",
+    "main.js": "/hotfix/static/js/main.5864ead0.js",
+    "static/js/787.3127f69d.chunk.js": "/hotfix/static/js/787.3127f69d.chunk.js",
+    "index.html": "/hotfix/index.html",
+    "main.9ec8fdc1.css.map": "/hotfix/static/css/main.9ec8fdc1.css.map",
+    "main.5864ead0.js.map": "/hotfix/static/js/main.5864ead0.js.map",
+    "787.3127f69d.chunk.js.map": "/hotfix/static/js/787.3127f69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec8fdc1.css",
+    "static/js/main.5864ead0.js"
+  ]
+}
